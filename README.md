@@ -1,3 +1,3 @@
-# `template`
+# Tailwind CSS Tutorial (The Net Ninja)
 
-Template for generic repositories
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw

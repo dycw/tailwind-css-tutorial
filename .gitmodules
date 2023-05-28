@@ -1,0 +1,3 @@
+[submodule "tailwind-tutorial"]
+	path = tailwind-tutorial
+	url = https://github.com/iamshaunjp/tailwind-tutorial
