@@ -1,4 +1,4 @@
-tailwind:
+build:
   pnpx tailwindcss -i src/styles.css -o ./public/styles.css --watch
 
 serve:
