@@ -2,4 +2,4 @@ build:
   pnpx tailwindcss -i src/styles.css -o ./public/styles.css --watch
 
 serve:
-  pnpx live-server public/
+  pnpx live-server --no-css-inject public/
